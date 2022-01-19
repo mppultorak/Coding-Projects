@@ -1,0 +1,4 @@
+Checking Account:
+1000
+Savings Account:
+1000
